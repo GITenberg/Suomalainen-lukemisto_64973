@@ -1,5 +1,8 @@
 _repo: Suomalainen-lukemisto_64973
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Various
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '53121'
     url: http://www.gutenberg.org/2009/agents/53121
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64973#Suomalainen-lukemisto
 gutenberg_issued: '2021-03-31'
 gutenberg_type: Text
 identifiers:

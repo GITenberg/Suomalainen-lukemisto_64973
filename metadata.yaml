@@ -1,0 +1,25 @@
+_repo: Suomalainen-lukemisto_64973
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Cannelin, Knut
+    gutenberg_agent_id: '53121'
+    url: http://www.gutenberg.org/2009/agents/53121
+description: ''
+gutenberg_issued: '2021-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64973'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Suomalainen lukemisto
+url: http://www.gutenberg.org/ebooks/64973
